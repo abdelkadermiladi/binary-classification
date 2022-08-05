@@ -1,6 +1,8 @@
 # humans-vs-horses-classification
 
-using a technique called "Transfer Learning"
+![image](https://user-images.githubusercontent.com/96490190/183217870-1f6b685f-5a94-4489-b298-322d1f617ad7.png)
+
+The aim of this project is to Use a technique called "Transfer Learning"
 
 Create the pre-trained model: 
 
