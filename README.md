@@ -14,4 +14,4 @@ create_final_model :
 
 Create the complete model by using the Model class
 
-# Define a Callback class that stops training once accuracy reaches 99.9%
+Define a Callback class that stops training once accuracy reaches 99.9%
